@@ -1,4 +1,4 @@
-# DIgitalSignature
+# Digital Signature
 
 This is a simple implementation of Digital Signature using SHA and RSA algorithm. The procedure goes like this:
 
