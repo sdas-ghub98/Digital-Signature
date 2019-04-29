@@ -9,8 +9,8 @@ def main():
 	pu,pr = key_generation.generate_key()
 	ch=0
 	while(ch!=3):
-	        print('Welcome to DSS Standard \n')
-	        print('1. Send message with DSS \n')
+	        print('Welcome to RSA Approach of DSS\n')
+	        print('1. Send message\n')
 	        print('2. Receive and verify the digital signature \n')
 	        print('3. Exit')
 	        ch = int(input('Please choose one: '))
